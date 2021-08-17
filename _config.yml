@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Matt Jungclaus's Github
+title: Matt Jungclaus
 email: matt.jungclaus@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Matt Jungclaus's first Github page. Matt will create a new Github page soon
-  to focus on his research in the field of embodied carbon in the built environment.
+  Matt Jungclaus is a student at the University of Colorado Boulder whose research focuses on embodied carbon in the built environment.
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
 url: "https://mjungclaus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: majungclaus
