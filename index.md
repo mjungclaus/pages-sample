@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-## Here's Matt's online portfolio
+## Here is Matt's online portfolio
 
 
-#### Here are some example pages:
+#### Matt's first project is for the Data Science Bootcamp at CU Boulder:
 
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
